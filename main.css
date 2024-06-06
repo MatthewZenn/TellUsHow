@@ -1,0 +1,47 @@
+body, html {
+  background-color: white;
+  font-family: Helvetica, sans-serif;
+}
+
+.logo {
+  position: relative;
+  top: 20px;
+  width: 35px;
+  padding-right: 10px;
+}
+
+.intro {
+  font-style: italic;
+}
+
+.headings {
+  font-size: 14pt;
+  font-weight: bold;
+}
+
+.container {
+  background-color: rgb(255, 249, 216);
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 5px;
+  box-shadow: 10px 10px 10px rgb(230, 230, 230);
+}
+
+.message {
+  color: green;
+  background-color: rgb(255, 249, 216);
+  font-size: 14pt;
+}
+
+.first {
+  color: red;
+}
+
+code {
+  padding-left: 5px;
+  color: black;
+}
+
+.innercode {
+  color: blue;
+}
