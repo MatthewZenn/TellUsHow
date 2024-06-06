@@ -1,4 +1,4 @@
-![logo](Static/logo.png)
+![logo](https://matthewzenn.github.io/TellUsHow/Static/logo.png)
 # TellUsHow
 https://matthewzenn.github.io/TellUsHow/
 
