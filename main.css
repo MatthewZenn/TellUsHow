@@ -12,7 +12,7 @@ body, html {
 
 h1 {
   position: relative;
-  top: -10px;
+  top: -20px;
 }
 
 h3 {
@@ -36,7 +36,7 @@ h3 {
 .container {
   position: relative;
   width: 95%;
-  background-color: rgb(53, 54, 59);
+  background-color: white;
   padding-left: 10px;
   border-radius: 5px;
   box-shadow: 10px 10px 10px rgb(230, 230, 230);
@@ -46,8 +46,8 @@ h3 {
 }
 
 .message {
-  color: rgb(230, 230, 230);
-  background-color: rgb(53, 54, 59);
+  color: black;
+  background-color: white;
   font-size: 14pt;
   margin-top: -20px;
   display: block;
@@ -55,11 +55,11 @@ h3 {
 
 .innercode {
   position: relative;
-  color: rgb(230, 230, 230);
+  color: black;
   font-family: monospace;
   font-size: 14pt;
-  background-color: rgb(44, 45, 49);
-  border: 1px solid rgb(27, 28, 31);
+  background-color: rgb(248, 254, 255);
+  border: 1px solid rgb(230, 230, 230);
   border-radius: 3px;
   top: -10px;
 }
@@ -93,7 +93,7 @@ footer {
 }
 
 .user {
-  color: rgb(45, 219, 167);
+  color: purple;
   font-weight: bold;
   font-size: 16pt;
   position: relative;
